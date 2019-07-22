@@ -18,7 +18,7 @@ Clone this repo
 
 `git clone https://github.com/matheusmessora/or-tools-layer.git`
 
-Run layer_package.sh
+Run build.sh
 
 `$ ./build.sh`
 
