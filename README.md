@@ -23,8 +23,3 @@ Run layer_package.sh
 `$ ./build.sh`
 
 Create a new layer using the zip file
-
-
-### License
-
-GNU GENERAL PUBLIC LICENSE, Version 2.
